@@ -14,8 +14,7 @@ Due to the length of this post, it only covers section one.
 
 Enjoy!
 
-
-##Disability
+<h2>Disability</h2>
 
 **Voulgardies, C.K., Fergus, E., & King Thorius, K.A. (2017). Pursuing Equity: Disproportionality in Special Education and the reframing of technical solutions to address systemic inequities. *Review of Research in Education, 41*,61-87. DOI: 10.3102/0091732X16686947** 
 
@@ -40,7 +39,7 @@ I really liked this quote:  "Disproportionality is often framed as a technical i
 
 The authors conclude by arguing for more nuanced approaches to intervening in special and general education and argue that MTSS (RtI and PBIS) are not successful in improving outcomes for ALL students.  
 
-##Socio-Economic Status
+<h2>Socio-Economic Status</h2>
 
 **Owens, A. (2018). Income segregation between school districts and inequality in students' achievement. *Sociology of Education 91*(1),1-27. DOI: 10.1177/0038040717741180**
 
@@ -80,7 +79,7 @@ The case study ends with this: "Educators must be cognizant of students' various
 
 The authors recommend viewing Dr. Kimberle Crenshaw's TED talk on [intersectionality](https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality)
 
-##Race
+<h2>Race</h2>
 
 **Kohli, R., Pizarro, M., & Nevarez, A. (2017). The "new racism" of k-12 schools: Centering critical research on racism. *Review of Research in Education 41*, 182-202. DOI: 10.3102/0091732X16686949**
 
