@@ -2,9 +2,9 @@
 layout: default
 description: A description about my blog homepage
 ---
-
-<div id="posts">
  {% include header.html}
+<div id="posts">
+
   <ul>
     {% for post in site.posts %}
       <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -12,5 +12,6 @@ description: A description about my blog homepage
     {% endfor %}
   </ul>
 	
-{% include footer.html}
+
 </div>
+{% include footer.html}
