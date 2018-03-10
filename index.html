@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+{% include header.html}
+<body>
+	<!-- Loop in you posts -->
+{% for post in site.posts %}
+    <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+
+  <!-- Your post's summary goes here -->
+  <article>{{ post.excerpt }}</article> 
+{% endfor %}
+
+{% include footer.html}
+</body>
+</html>
