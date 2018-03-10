@@ -5,6 +5,7 @@ email: johnboniello@gmail.com
 description: Research roundup
 twitter_username: johnboniello
 github_username:  johnboniello
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
