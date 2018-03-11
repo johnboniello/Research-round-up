@@ -10,12 +10,12 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", , "neon",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Blogs"
+title                    : "Research Roundup"
 title_separator          : "-"
 name                     : "John Boniello"
-description              : "This is the home of my not so regular blogs."
+description              : "This is the home of my semi-regular research summaries."
 url                      : "http://johnboniello.com"
-baseurl                  : "/blog2"
+baseurl                  : "/Research-round-up"
 repository               :  johnboniello
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
