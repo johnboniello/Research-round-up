@@ -14,8 +14,7 @@ Due to the length of this post, it only covers section one.
 
 Enjoy!
 
-
-##Disability
+<h2>Disability</h2>
 
 **Voulgardies, C.K., Fergus, E., & King Thorius, K.A. (2017). Pursuing Equity: Disproportionality in Special Education and the reframing of technical solutions to address systemic inequities. *Review of Research in Education, 41*,61-87. DOI: 10.3102/0091732X16686947** 
 
@@ -40,7 +39,7 @@ I really liked this quote:  "Disproportionality is often framed as a technical i
 
 The authors conclude by arguing for more nuanced approaches to intervening in special and general education and argue that MTSS (RtI and PBIS) are not successful in improving outcomes for ALL students.  
 
-##Socio-Economic Status
+<h2>Socio-Economic Status</h2>
 
 **Owens, A. (2018). Income segregation between school districts and inequality in students' achievement. *Sociology of Education 91*(1),1-27. DOI: 10.1177/0038040717741180**
 
@@ -78,9 +77,9 @@ This case study discusses a new Superintendent and her new initiative in an inne
 
 The case study ends with this: "Educators must be cognizant of students' various and interlocking identities to truly meet their needs.  To do so, educators must look deeply into issues of identity; otherwise, the may either cause or ignore problems."
 
-The authors recommend viewing Dr. Kimberle Crenshaw's TED talk on [intersectionality](https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality)
+The authors recommend viewing Dr. Kimberle Crenshaw's TED talk on [**intersectionality**](https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality)*(clickable link)*
 
-##Race
+<h2>Race</h2>
 
 **Kohli, R., Pizarro, M., & Nevarez, A. (2017). The "new racism" of k-12 schools: Centering critical research on racism. *Review of Research in Education 41*, 182-202. DOI: 10.3102/0091732X16686949**
 
@@ -92,7 +91,7 @@ In this chapter of the Review of Research in Education the authors set out to an
 The authors categorize current scholarship on race and racism in education into three categories: 
 
 1. Evading racism. Equity-explicit discourse is divorced from institutional analyses or concrete discourse on race and racism.
-    - This type of racism is a superficial response to diversity in classrooms, the activities are afterthoughts, something we do to bring in the culture of our minority students.  We celebrate Chinese New Year or Cinco de Mayo but our classrooms are reflective of the dominant culture throughout the rest of the year.  We do not weave diversity into our daily curriculum and celebrate multiculturalism throughout the lessons naturally.  Instead we separate other cultures and reinforce the idea that they are different and this reinforces that they are less than. *(Editorial side note, and I know many will disagree with me, this is the exact reason I do not like celebrating things like Hispanic heritage month or Black history month.  I see the need to call attention to the successes and histories of people not in the dominant culture, but I believe we should weave it into the daily lives of everyone, that we should not separate groups of people into months. Obviously this only works if we are ACTUALLY doing this and not just completely ignoring our minority students, which could be an end result. According to this article this activity actually reinforces racist hierarchies. For a much better explanation of this idea see [Joel Christian Gill](https://www.huffingtonpost.com/joel-christian-gill/lets-get-rid-of-black-history-month_b_6655356.html) or [Sincere Kirabo](https://thehumanist.com/commentary/im-black-man-black-history-month)*
+    - This type of racism is a superficial response to diversity in classrooms, the activities are afterthoughts, something we do to bring in the culture of our minority students.  We celebrate Chinese New Year or Cinco de Mayo but our classrooms are reflective of the dominant culture throughout the rest of the year.  We do not weave diversity into our daily curriculum and celebrate multiculturalism throughout the lessons naturally.  Instead we separate other cultures and reinforce the idea that they are different and this reinforces that they are less than. *(Editorial side note, and I know many will disagree with me, this is the exact reason I do not like celebrating things like Hispanic heritage month or Black history month.  I see the need to call attention to the successes and histories of people not in the dominant culture, but I believe we should weave it into the daily lives of everyone, that we should not separate groups of people into months. Obviously this only works if we are ACTUALLY doing this and not just completely ignoring our minority students, which could be an end result. According to this article this activity actually reinforces racist hierarchies. For a much better explanation of this idea see [**Joel Christian Gill**](https://www.huffingtonpost.com/joel-christian-gill/lets-get-rid-of-black-history-month_b_6655356.html)*(clickable link)* or [**Sincere Kirabo**](https://thehumanist.com/commentary/im-black-man-black-history-month)* *(clickable link)*
     
 2. Anti-racist racism. Racially inequitable practices and policies are actually masked as the solution to racism.
     1. *Neoliberal Racism and Policy*
