@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Roundup 2a: Equity and Culture in Schools: Framing the Problem"
 date: 2018-03-10
 ---
