@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "John Boniello"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "John is an educator and likes to read research on what works, especially for students with disabilities and ELLs. To download pdf versions of the roundups, click [here](https://github.com/johnboniello/roundup-pdfs)"
+  bio              : "John is an educator and likes to read research on what works, especially for students with disabilities and ELLs. <h3>To download pdf versions of the roundups, click <a href=https://github.com/johnboniello/roundup-pdfs>Here</a></h3>"
   location         : "New York"
   email            : johnboniello@gmail.com
   uri              :
