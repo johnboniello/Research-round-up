@@ -2,6 +2,7 @@
 layout: single
 title: "Roundup 2a: Equity and Culture in Schools: Framing the Problem"
 date: 2018-03-10
+pdf: true
 ---
 
 Starting with this second edition of the roundup I have decided to try to focus on one topic in Education.  This helps me with finding articles to read (there are so many!) and will help you, the reader, know if it is something interesting for you.  This edition is about Equity and Culture in schools. I have organized this into two major sections:
