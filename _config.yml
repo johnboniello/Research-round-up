@@ -213,6 +213,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-pdf
+  - jekyll-seo-tag
 
 
 # Archives
