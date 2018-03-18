@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "John is an educator and likes to read research on what works, especially for students with disabilities and ELLs. <h3>To download pdf versions of the roundups, click <a href='https://github.com/johnboniello/roundup-pdfs'><u><i>Here</i></u></a></h3>"
   location         : "New York"
-  email            : johnboniello@gmail.com
+  email            : john@johnboniello.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
