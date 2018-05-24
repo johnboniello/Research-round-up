@@ -97,7 +97,7 @@ author:
   name             : "John Boniello"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
 <<<<<<< HEAD
-  bio              : "John is an educator and likes to read research on what works, especially for students with disabilities and ELLs. <h2>To download pdf versions of the roundups, click <a href='https://github.com/johnboniello/roundup-pdfs'><u><i>Here</i></u></a></h2> <h2> Never miss a round up. Subscribe here <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe0yL3T9M4mZoxCL5qhr73mTQtS-FUnui1kajD1sAWPoveJbg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>."
+  bio              : "John is an educator and likes to read research on what works, especially for students with disabilities and ELLs. <h2>To download pdf versions of the roundups, click <a href='https://github.com/johnboniello/roundup-pdfs'><u><i>Here</i></u></a></h2> <h2> Never miss a round up. Subscribe <a href=https://goo.gl/forms/YWuYrNEJjXLUU6Yh1>here</a>."
 =======
   bio              : "John is an educator and likes to read research on what works, especially for students with disabilities and ELLs. <h3>To download pdf versions of the roundups, click <a href='https://github.com/johnboniello/roundup-pdfs'><u><i>Here</i></u></a></h3>"
 >>>>>>> parent of 05cbf1f... Update _config.yml
