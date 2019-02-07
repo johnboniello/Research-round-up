@@ -14,7 +14,7 @@ title                    : "Research Roundup"
 title_separator          : "-"
 name                     : "John Boniello"
 description              : "This is the home of my semi-regular research summaries."
-url                      : "http://johnboniello.com/Research-round-up/"
+url                      : "http://johnboniello.com/"
 baseurl                  : 
 repository               :  johnboniello
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
